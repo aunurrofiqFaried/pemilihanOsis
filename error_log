@@ -1,0 +1,2 @@
+
+[20-Aug-2021 22:56:49 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/smkntak1/pilsis2021.smkn1-takeran.sch.id/index.php on line 60

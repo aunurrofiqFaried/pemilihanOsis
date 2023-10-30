@@ -1,0 +1,35 @@
+.frame {
+    height: 25px;      /* Equals maximum image height */
+    line-height: 25px;
+    width: 160px;   
+
+    text-align: center;
+    margin: 1em 0;
+}
+
+html, body {
+    height: 100%;
+}
+
+/* CSS only for examples not required for centering */
+.login {
+    height: 100%;
+}
+
+.bg-login {
+	background-color: #0f1826
+}
+
+.card-login {
+	margin-top: 24px;
+	margin-bottom: 24px;
+
+}
+
+.txt-absen {
+	color: #0f1826
+}
+
+.txt-skanet {
+	color: #fb8a27
+}
